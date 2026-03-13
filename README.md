@@ -25,4 +25,5 @@ This README serves as the home page for this wiki. Please manually add a link to
 [MCU API documentation](assets/api_doc/html/index.html)  
 [Creating applications with the MCU SDK for
 the Intel® Edison board](assets/MCU SDK for the Intel Edison board.pdf)  
-    *salvaged from the Intel web site 2015, source for this document provided alongside the pdf in git*
+    *salvaged from the Intel web site 2015, source for this document provided alongside the pdf in git*  
+[Intel Edison MCU Quick Start](edison-MCU-quick-start) 
